@@ -3,7 +3,7 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Cart from './pages/Cart'
 import { Provider } from 'react-redux'
-import store from './redux/store'
+import { store } from './redux/store'
 import User from './pages/User'
 
 function App() {
